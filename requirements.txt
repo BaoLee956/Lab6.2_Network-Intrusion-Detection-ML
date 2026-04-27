@@ -1,0 +1,19 @@
+# Data Manipulation & Analysis
+pandas
+numpy
+
+# Data Visualization (EDA)
+matplotlib
+seaborn
+
+# Machine Learning & Preprocessing
+scikit-learn
+
+# Handling Class Imbalance (SMOTE & RandomUnderSampler)
+imbalanced-learn
+
+# Model Saving/Loading
+joblib
+
+# Interactive Environment
+jupyterlab
